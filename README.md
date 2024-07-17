@@ -4,6 +4,7 @@ In the minesweeper game, each cell is a vertex in the graph. Each cell is connec
   ## This application has 4 main JFrames including:
   ### Main menu:
   The game's menu functions include: Play game, How to play, About Us and Quit.
+  
   ![Main Menu] (https://drive.google.com/file/d/1AKFZWzZx8FS05Cyd0gL-pUAuoQfrlJIf/view?usp=sharing)
   ### Play(Gui()):
   Here is the main gameplay image of the game.
