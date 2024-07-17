@@ -5,7 +5,7 @@ In the minesweeper game, each cell is a vertex in the graph. Each cell is connec
   ### Main menu:
   The game's menu functions include: Play game, How to play, About Us and Quit.
   
-  ![Main Menu](https://drive.google.com/file/d/1AKFZWzZx8FS05Cyd0gL-pUAuoQfrlJIf/view?usp=sharing)
+  ![Main Menu](https://github.com/user-attachments/assets/9031b042-f674-4929-abcb-48465bd43dac)
   ### Play(Gui()):
   Here is the main gameplay image of the game.
   ### How to play:
